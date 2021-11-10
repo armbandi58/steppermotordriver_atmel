@@ -1,0 +1,11 @@
+Arduino nano portok:
+	Enable 	- PD2(D2)
+	MS1 	- PD3(D3)
+	MS2 	- PD4(D4)
+	MS3	- PD5(D5)
+	STEP 	- PB0(D8)
+	DIR 	- PC0(A0)
+ bemenetnek: (?)
+	PC1 - PC2
+	
+ PB5 - userled
